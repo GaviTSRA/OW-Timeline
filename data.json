@@ -1,0 +1,37 @@
+{
+    "items": [
+        {
+            "title": "Creation of the Universe",
+            "description": "The universe is created, probably by a concious entity from the previous universe entering the Eye of the Universe",
+            "color": "#F9ED69",
+            "image": "Eye_Big_Bang.webp",
+            "borderColor": "#F08A5D",
+            "borderSize": 0.1,
+            "source": "Outer Wilds"
+        },
+        {
+            "color": "#222222",
+            "content": "14 billion years",
+            "borderColor": "#444488",
+            "borderSize": 0.3
+        },
+        {
+            "title": "2nd",
+            "description": "Another thing",
+            "color": "#F9ED69",
+            "image": "Eye_Big_Bang.webp",
+            "borderColor": "#F08A5D",
+            "borderSize": 0.1,
+            "source": "Outer Wilds"
+        },
+        {
+            "title": "3rd",
+            "description": "Another thing",
+            "color": "#F9ED69",
+            "image": "Eye_Big_Bang.webp",
+            "borderColor": "#F08A5D",
+            "borderSize": 0.1,
+            "source": "Echoes of the Eye"
+        }
+    ]
+}
