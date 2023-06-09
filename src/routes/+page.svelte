@@ -50,7 +50,7 @@
 	:root {
 		-ms-overflow-style: none;
 		scrollbar-width: none;
-		background-image: url("background.webp"); 
+		background-image: url("../../../background.png"); 
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-attachment:fixed;
